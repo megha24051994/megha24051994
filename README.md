@@ -19,9 +19,9 @@
 
 ---
 ### :woman_technologist: About Me :
-I am Megha Jayakumar, Software Developer at Ergotopia GmbH, Germany. <br/>
-Web & App Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> by profession with a Masters in Computer Science from the University of Bonn.
-
+I am Megha Jayakumar, Web & App Developer at Ergotopia GmbH, Germany.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br/>
+Bachelor of Engineering in Computer Science from Sathyabama Institue of Technology, Chennai, India. <br/>
+Masters in Computer Science from The University of Bonn, Bonn, Germany. <br/>
 
 ### :hammer_and_wrench: Languages, Frameworks and Tools:
 <div>
