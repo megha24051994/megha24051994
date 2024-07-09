@@ -8,8 +8,7 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
----
-### :hammer_and_wrench: Languages, Frameworks and Tools:
+:hammer_and_wrench: Languages, Frameworks and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/angularjs/angularjs-original.svg"  title="Angular" alt="AngularJs" width="40" height="40"/>&nbsp;
