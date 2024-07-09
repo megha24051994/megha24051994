@@ -8,17 +8,7 @@
   Hey there!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="600" height="300"/>
-</div>
-
 ---
-### :woman_technologist: About Me :
-I am Megha Jayakumar, Web & App Developer at Ergotopia GmbH, Germany.<img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> <br/>
-Bachelor of Engineering in Computer Science from Sathyabama Institue of Technology, Chennai, India. <br/>
-Masters in Computer Science from The University of Bonn, Bonn, Germany. <br/>
-
 ### :hammer_and_wrench: Languages, Frameworks and Tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
